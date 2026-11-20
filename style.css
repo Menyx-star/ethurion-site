@@ -1,5 +1,5 @@
 
-:root{--bg:#12142A;--card:#1B1E3D;--text:#F4F3F8;--muted:#B8B9D6;--brand:#3B1A6B;--accent:#A98BFF;--line:#31356A}
+:root{--bg:#FFFFFF;--card:#F6F4FA;--text:#1B1633;--muted:#5B5878;--brand:#3B1A6B;--accent:#3B1A6B;--line:#E4DFEF}
 *{box-sizing:border-box}html{-webkit-text-size-adjust:100%}
 body{margin:0;background:var(--bg);color:var(--text);font:16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
 a{color:var(--accent)}
